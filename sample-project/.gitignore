@@ -1,0 +1,12 @@
+*.err
+*.log
+*.class
+*.out
+*.swp
+*.swo
+*.swm
+*.swn
+*.swk
+*.swl
+*.swj
+
